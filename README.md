@@ -12,3 +12,6 @@ Frontend: Built using [Frontend Technology, e.g., React.js] for user interaction
 Backend: Smart contracts written in  deployed on the Ethereum blockchain.
 Storage: Files are stored on IPFS, a decentralized file storage system. (For this project,  is used.)
 Authentication: is used for secure blockchain interaction.
+
+
+HAI
